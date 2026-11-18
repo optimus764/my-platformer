@@ -468,8 +468,8 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
-    height: 0.9992148
+    width: 0.9993577
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
@@ -1391,7 +1391,7 @@ AudioSource:
   m_GameObject: {fileID: 1977324520}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -9204866145077710997, guid: 9bf82234b2e3d6a44b87e6be2037d55e, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
